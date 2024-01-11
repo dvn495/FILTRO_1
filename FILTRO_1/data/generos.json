@@ -1,0 +1,22 @@
+{
+    "G02": {
+        "id": "G02",
+        "nombre": "TERROR"
+    },
+    "GO1": {
+        "id": "GO1",
+        "nombre": "ACCION"
+    },
+    "GO3": {
+        "id": "GO3",
+        "nombre": "COMEDIA"
+    },
+    "G04": {
+        "id": "G04",
+        "nombre": "ROMANCE"
+    },
+    "G06": {
+        "id": "G06",
+        "nombre": "futurista"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "blockbuster": {
+        "peliculas": {
+            "P01": {
+                "id": "P01",
+                "nombre": "HER",
+                "duracion": "2 HRS 45 MIN",
+                "sinopsis": "ROMANCE"
+            }
+        }
+    }
+}
